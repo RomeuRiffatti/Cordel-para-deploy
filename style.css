@@ -67,14 +67,14 @@ section.imagem {
 }
 
 #primeira {
-    background-image: url('/imagens/background001.jpg');
+    background-image: url('./imagens/background001.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: right center;
 }
 
 #segunda {
-    background-image: url('/imagens/background002.jpg');
+    background-image: url('./imagens/background002.jpg');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
